@@ -3,7 +3,6 @@ html {
 }
 
 .navbar {
-  /* background-color: rgba(23, 93, 254, 0.85); */
   background-color: black;
   opacity: 0.8;
 }
@@ -83,7 +82,7 @@ html {
 
 #doctor-section {
   padding-top: 200px;
-  padding-bottom: 200px;
+  padding-bottom: 210px;
 }
 
 #doctor-section h1 {
@@ -110,7 +109,6 @@ html {
 }
 
 #contact {
-  margin-top: 10px;
   background-color: rgb(21, 37, 56);
   padding-top: 200px;
   padding-bottom: 150px;
